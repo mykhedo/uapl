@@ -1,2 +1,1 @@
-print("one")
-print("x is 1")
+print("hello")
